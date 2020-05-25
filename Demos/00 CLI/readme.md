@@ -8,8 +8,6 @@
 
 [JMESPath Documentation](http://jmespath.org/)
 
-## TEST
-
 Log In:
 
 ```bash
